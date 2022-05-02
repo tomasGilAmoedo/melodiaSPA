@@ -39,4 +39,12 @@ The OAuth Flow:
 -Client ID
 -Client secret
 
+Spotify API: 
+# Authorizations flows
+
+Lean: Cookie => y stateKey
+
+## STEP 2 of the OAuthFlow
+> Using the Authorization key to get the access token => POST req => Making it with Axios.
+Axios work on Client Side and Server Side.
 
